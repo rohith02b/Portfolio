@@ -1,11 +1,10 @@
 import React from 'react'
 
-function Navbar() {
+const Navbar = () => {
     return(
-        <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-md-3">
+        <nav class="navbar navbar-expand-sm navbar-white bg-white p-md-3 shadow fixed-top">
             <div class="container">
-            {/* <a class="navbar-brand" href="/About-me">ROHITH BADRINATH</a> */}
-             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>                    
             </button>             
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
