@@ -1,19 +1,30 @@
 .home-content {
-    margin-top : 150px;
+  margin-top: 170px;
 }
 
-body{
-    background-color:blanchedalmond;
+body {
+  background-color: aliceblue;
 }
+
+.about{
+  background-image: url("https://picsum.photos/700/700?grayscale");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+  background-position: center center;
+  color: white;
+}
+
 
 @media only screen and (max-width: 600px) {
-    .home-content{
-        margin-top: 100px;
-        display: block;
-        text-align: center;
-    }
-
-    .home-text {
-        padding-top: 30px;
-    }
+  .home-content {
+    margin-top: 100px;
+    display: block;
+    text-align: center;
   }
+
+  .home-text {
+    padding-top: 30px;
+  }
+}
