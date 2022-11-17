@@ -1,13 +1,17 @@
 .home-content {
-  margin-top: 170px;
+  margin-top: 150px;
 }
 
 body {
-  background-color: aliceblue;
+  background-color:aliceblue;
+}
+
+.abcd{
+  border-radius: 40%;
 }
 
 .about{
-  background-image: url("https://picsum.photos/700/700?grayscale");
+  background-image: url("https://picsum.photos/1000/1000");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
