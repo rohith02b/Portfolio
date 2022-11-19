@@ -2,14 +2,13 @@ import './App.css';
 import React from 'react';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import Contact from './components/Contact'
+import {Route} from 'react-router-dom';
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar/>
       <Home />
-      <Contact/>
     </>
   );
 }
