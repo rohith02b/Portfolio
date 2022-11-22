@@ -12,7 +12,7 @@ const Contact = () => {
                 </div>
                 <div className="col-md-6 text-center my-4 my-md-0">
                     <div className="d-inline px-5">
-                        <a href="rohith20b@gmail.com" target="_blank">
+                        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQLtdDFbdrMHfmNXtfZmzmZcBVpvTvwxFtdxDDNFFRRPWVjSvhtFKGXBcLbBTzJQPNfgrN" target="_blank">
                             <img src={gmail} alt="" width={50} height={50} className="abcd shadow"/>
                             </a>
                         </div>

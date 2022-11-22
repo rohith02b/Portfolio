@@ -1,31 +1,30 @@
 .home-content {
-  margin-top: 150px;
+  margin-top: 130px;
 }
 
 body {
   background-color:aliceblue;
 }
 
-.abcd{
-  border-radius: 40%;
-}
 
 .about{
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-color:rebeccapurple;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   height: auto;
-  /* background-position: center center; */
   color: white;
 }
 
+.aboutPage {
+  margin-top: 130px;
+}
 
 
 
 @media only screen and (max-width: 600px) {
   .home-content {
-    margin-top: 100px;
+    margin-top: 120px;
     display: block;
     text-align: center;
   }

@@ -3,9 +3,9 @@ import React from "react";
 const AboutMe = () => {
     return (
         <>
-            <div className="container text-center about rounded-2 my-5 py-5">
+            <div className="container text-center about rounded-2 p-5 my-5">
                 <h2 className="p-3">
-                    <b>Hi everyone i'm Rohith Badrinath , pursuing my Engineering in Sai
+                    <b>Hi everyone i'm Rohith Badrinath , pursuing my Computer Science Engineering in Sai
                         Vidya Institute Of Technology.</b>
                 </h2>
                 <h2 className="p-3">
