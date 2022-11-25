@@ -21,7 +21,7 @@ const Navbar = () => {
                             <Link to="/Projects" className='nav-link'>Projects</Link>
                         </li>
                         <li class="nav-item mx-3">
-                            <Link to="/Contact" className='nav-link'>Contact Me</Link>
+                            <a href="./#contactMe" className='nav-link'>Contact Me</a>
                         </li>
                     </ul>
                 </div>

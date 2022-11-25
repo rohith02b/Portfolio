@@ -19,7 +19,7 @@ const Home = () => {
               <blockquote className="blockquote">
                 <p><b>You miss 100% of the shots you don’t take</b></p>
               </blockquote>
-              <figcaption className="blockquote-footer">Wayne Gretzky</figcaption>
+              <figcaption className="blockquote-footer text-dark">Wayne Gretzky</figcaption>
             </figure>
           </div>
         </div>
