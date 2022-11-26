@@ -1,5 +1,5 @@
 import React from "react";
-import profile from './Images/profile.jpeg'
+import profile from '../Images/profile.jpeg'
 import Home1 from './Home1';
 import Home2 from './Home2';
 
@@ -12,7 +12,7 @@ const Home = () => {
             <img
               src={profile}
               alt="Rohith"
-              className="img-fluid w-75 shadow rounded-2"></img>
+              className="img-fluid w-75 shadow rounded-3"></img>
           </div>
           <div className="col-sm-6 my-auto home-text">
             <figure className="display-2">
