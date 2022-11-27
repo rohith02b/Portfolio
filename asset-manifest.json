@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.2772b399.css",
+    "main.js": "/Portfolio/static/js/main.2835626c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weeknd.jpg": "/Portfolio/static/media/weeknd.8cece8e74f71c9503e66.jpg",
+    "static/media/football2.jpg": "/Portfolio/static/media/football2.bdeb7dc2af741e3b789d.jpg",
+    "static/media/profile.jpeg": "/Portfolio/static/media/profile.ffc8dda5c206cdf70f3e.jpeg",
+    "static/media/twitter.png": "/Portfolio/static/media/twitter.89d4a3b71f7ba90a3af9.png",
+    "static/media/gmail.png": "/Portfolio/static/media/gmail.d765005ce9d4caa3d69e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.2772b399.css.map": "/Portfolio/static/css/main.2772b399.css.map",
+    "main.2835626c.js.map": "/Portfolio/static/js/main.2835626c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2772b399.css",
+    "static/js/main.2835626c.js"
+  ]
+}
