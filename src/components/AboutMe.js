@@ -1,5 +1,5 @@
 import React from "react";
-import music from './Images/weeknd.jpg'
+import music from './Images/weelnd2.jpg'
 import football from './Images/football2.jpg'
 import twitter from './Images/twitter.png'
 import gitHub from './Images/gitHub.png'
@@ -53,7 +53,7 @@ const AboutMe = () => {
             </h5>
 
             <h5 className="my-5 pb-5">
-                I have taken part the SMART INDIA HACKATHON 2022 and worked with my team to build a VIRTUAL EXCAVATION GAME. It was a wonderful experience and I am looking forward to attending more Hackathons of such. 
+                I have taken part in SMART INDIA HACKATHON 2022 and worked with my team to build a VIRTUAL EXCAVATION GAME. It was a wonderful experience and I am looking forward to attending more Hackathons of such. 
             </h5>
         </div>
 
