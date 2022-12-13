@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c91c15f4.css",
-    "main.js": "/Portfolio/static/js/main.5aecde31.js",
+    "main.css": "/Portfolio/static/css/main.bac9594e.css",
+    "main.js": "/Portfolio/static/js/main.f5f71268.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/weelnd2.jpg": "/Portfolio/static/media/weelnd2.3d28165280bb5066ad3a.jpg",
-    "static/media/weeknd.jpg": "/Portfolio/static/media/weeknd.8cece8e74f71c9503e66.jpg",
-    "static/media/football2.jpg": "/Portfolio/static/media/football2.bdeb7dc2af741e3b789d.jpg",
+    "static/media/Image-1.jpg": "/Portfolio/static/media/Image-1.7bdb6d4474a9811e8bfa.jpg",
+    "static/media/aboutpic3.jpg": "/Portfolio/static/media/aboutpic3.2ecce843e92ba231cdd7.jpg",
     "static/media/profile.jpeg": "/Portfolio/static/media/profile.ffc8dda5c206cdf70f3e.jpeg",
     "static/media/twitter.png": "/Portfolio/static/media/twitter.89d4a3b71f7ba90a3af9.png",
+    "static/media/aboutPic2.jpg": "/Portfolio/static/media/aboutPic2.953b01b12a857bb163d5.jpg",
+    "static/media/Rohith's Resume.pdf": "/Portfolio/static/media/Rohith's Resume.42f363662f070b09a54d.pdf",
     "static/media/gmail.png": "/Portfolio/static/media/gmail.d765005ce9d4caa3d69e.png",
     "index.html": "/Portfolio/index.html",
-    "main.c91c15f4.css.map": "/Portfolio/static/css/main.c91c15f4.css.map",
-    "main.5aecde31.js.map": "/Portfolio/static/js/main.5aecde31.js.map",
+    "main.bac9594e.css.map": "/Portfolio/static/css/main.bac9594e.css.map",
+    "main.f5f71268.js.map": "/Portfolio/static/js/main.f5f71268.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c91c15f4.css",
-    "static/js/main.5aecde31.js"
+    "static/css/main.bac9594e.css",
+    "static/js/main.f5f71268.js"
   ]
 }
