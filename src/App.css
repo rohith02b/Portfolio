@@ -6,10 +6,10 @@
   margin-top: 130px;
 }
 
-body {
+ body {
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 400% 400%;
-    animation: gradient 10s ease infinite; 
+    animation: gradient 10s ease infinite;  
 }
  
 @keyframes gradient {
@@ -22,44 +22,34 @@ body {
     100% {
         background-position: 0% 50%;
     }
-} 
+}  
 
 .contact {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-color:azure;
 }
 
-
-.about{
-  background-image: url("./components/Images/weeknd.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: auto;
-  background-position: center center;
-  color: white;
-}
-
-
-.aboutPage {
+ .aboutPage {
   margin-top: 130px;
-}
+} 
 
 .projectText {
   margin-top: 300px;
 }
 
 .aboutMeText {
-  background-color:antiquewhite;
+  margin-top: 130px;
 }
 
 .contactAbout {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-color:antiquewhite;
+  background-color:antiquewhite;;
 }
 
+.card {
+  width: 35% !important;
+}
 
 @media only screen and (max-width: 600px) {
   .home-content {
@@ -70,5 +60,9 @@ body {
 
   .home-text {
     padding-top: 30px;
+  }
+
+  .card {
+    width: 75% !important;
   }
 }

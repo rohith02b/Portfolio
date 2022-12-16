@@ -1,9 +1,8 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-
+import { Link } from 'react-router-dom';
 const Navbar = () => {
     return (
-        <nav class=" container navbar navbar-expand-sm navbar-dark bg-dark py-md-3 shadow fixed-top rounded-bottom">
+        <nav class=" container navbar navbar-expand navbar-dark bg-dark py-md-3 shadow fixed-top rounded-bottom">
             <div class="container">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -19,9 +18,6 @@ const Navbar = () => {
                         </li>
                         <li class="nav-item mx-3">
                             <Link to="/Projects" className='nav-link'>Projects</Link>
-                        </li>
-                        <li class="nav-item mx-3">
-                            <a href=".##contactMe" className='nav-link'>Contact Me</a>
                         </li>
                     </ul>
                 </div>

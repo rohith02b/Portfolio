@@ -2,6 +2,8 @@ import React from "react";
 import profile from '../Images/profile.jpeg'
 import Home1 from './Home1';
 import Home2 from './Home2';
+import resume from "../Images/Rohith's Resume.pdf"
+import { HashLink as Link } from "react-router-hash-link";
 
 const Home = () => {
   return (
@@ -14,13 +16,11 @@ const Home = () => {
               alt="Rohith"
               className="img-fluid w-75 shadow rounded-3"></img>
           </div>
-          <div className="col-sm-6 my-auto home-text">
-            <figure className="display-2">
-              <blockquote className="blockquote">
-                <p><b>You miss 100% of the shots you don’t take</b></p>
-              </blockquote>
-              <figcaption className="blockquote-footer text-dark">Wayne Gretzky</figcaption>
-            </figure>
+          <div className="col-sm-6 text-center my-5 my-sm-auto">
+            <div className="display-5 m-3">Hi, I am Rohith Badrinath</div>
+            <a href={resume} download="Rohith's Resume">
+              <button type="button" class="btn btn-dark m-3 px-3">Resume</button></a>
+            <Link to=".#contactMe"><button type="button" class="btn btn-dark m-3">Contact Me</button></Link>
           </div>
         </div>
       </div>
